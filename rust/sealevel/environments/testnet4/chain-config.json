@@ -269,6 +269,34 @@
       "gasPrice": 8000000000
     }
   },
+  "bullettestnet": {
+    "blockExplorers": [],
+    "blocks": {
+      "confirmations": 1,
+      "estimateBlockTime": 3,
+      "reorgPeriod": 0
+    },
+    "chainId": 4321,
+    "deployer": {
+      "name": "Sovereign Labs",
+      "url": "https://www.sovereign.xyz"
+    },
+    "displayName": "Bullet Testnet",
+    "domainId": 5555,
+    "isTestnet": true,
+    "name": "bullettestnet",
+    "nativeToken": {
+      "decimals": 9,
+      "name": "BULL",
+      "symbol": "BULL"
+    },
+    "protocol": "sovereign",
+    "rpcUrls": [
+      {
+        "http": "https://rollup.testnet.bullet.xyz"
+      }
+    ]
+  },
   "carrchaintestnet": {
     "blockExplorers": [
       {

@@ -1,0 +1,15 @@
+{
+  "solanatestnet": {
+    "type": "native",
+    "decimals": 9,
+    "interchainSecurityModule": "HHh14em6DqZ9HxTPqqqT8JFjBxK5KbC39WrvctC3SZJG"
+  },
+  "bullettestnet": {
+    "type": "synthetic",
+    "decimals": 9,
+    "name": "sol",
+    "symbol": "SOL",
+    "token": "token_1vr5r43tjsc33epc0uc569ggxhvt608cjd8em9qzna0fh0j74g5yslrz76d",
+    "foreignDeployment": "0xddab628a0e1371ed348dc24e9d10869a79c7df797859e7f269a3bbcb4fec98ca"
+  }
+}

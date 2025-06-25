@@ -1,0 +1,10 @@
+{
+  "bullettestnet": {
+    "hex": "0xddab628a0e1371ed348dc24e9d10869a79c7df797859e7f269a3bbcb4fec98ca",
+    "base58": "FvJg9MQ6cnzFEtqwECAkeKcsYcNPJAHTseUqxdFq9V6y"
+  },
+  "solanatestnet": {
+    "hex": "0x54b0b39fd02198dfaf116360668610d2a6c28833ed646a589cc54435c80f648d",
+    "base58": "6hbXJXwAj7LtievCtvoZaTakCz2uMF9FzXC2iHW4Yeax"
+  }
+}
